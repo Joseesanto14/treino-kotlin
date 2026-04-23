@@ -1,3 +1,5 @@
+package exercicios
+
 fun main() {
     println("Digite o primeiro número real: ")
     val n1 = readln().toDouble()
