@@ -19,7 +19,25 @@ O código está organizado da seguinte forma:
 - `src/main/kotlin/aulalab/aulaabstrato/`: Práticas focadas em conceitos de abstração, incluindo:
     - Uso de **Classes Abstratas** e **Interfaces**.
     - Implementação de formas geométricas e polimorfismo.
-- `src/main/kotlin/exercicios/`: Exercícios variados para fixação de lógica e sintaxe da linguagem.
+- `src/main/kotlin/exercicios/`: Exercícios variados para fixação de lógica, sintaxe e conceitos de POO.
+
+## 🚀 Lista de Exercícios
+
+| Exercício | Descrição | Conceitos Explorados |
+| :--- | :--- | :--- |
+| **001** | Hello World | Sintaxe básica. |
+| **002** | Saudação ao usuário | Entrada/Saída (`readln`). |
+| **003** | Soma de números reais | Operadores aritméticos. |
+| **004** | Análise de String | Propriedades de Strings (`length`, `isEmpty`, `isBlank`). |
+| **005** | Antecessor e Sucessor | **Extension Functions**. |
+| **006** | Dobro, Triplo e Raiz Quadrada | Funções matemáticas (`sqrt`). |
+| **007** | Média de notas | Lógica básica e tipos numéricos. |
+| **008** | Conversor de medidas | Conversão de unidades (m para km, cm, mm, etc.). |
+| **009** | Tabuada | Laços de repetição (`for`). |
+| **010** | Conversor de Moeda | Uso de classes e constantes. |
+| **011** | Cálculo de Tinta | Cálculo de área e arredondamento (`ceil`). |
+| **012** | Desconto de Produto | Lógica financeira básica. |
+| **013** | Aumento Salarial | Uso de **Inner Classes**. |
 
 ## 🎓 Tópicos Estudados
 
@@ -27,7 +45,9 @@ O código está organizado da seguinte forma:
 - [x] Classes e Objetos.
 - [x] Encapsulamento, Herança e Polimorfismo.
 - [x] Classes Abstratas e Interfaces.
-- [x] Manipulação de coleções (em andamento).
+- [x] **Extension Functions**.
+- [x] **Inner Classes**.
+- [ ] Manipulação de coleções (em andamento).
 
 ## ⚙️ Como Executar
 
