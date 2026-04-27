@@ -1,4 +1,4 @@
-package exercicios
+package exercicios.blockone
 
 import java.lang.Math.toRadians
 import kotlin.math.cos

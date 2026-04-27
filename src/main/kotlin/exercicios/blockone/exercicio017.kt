@@ -1,4 +1,4 @@
-package exercicios
+package exercicios.blockone
 
 import kotlin.math.pow
 import kotlin.math.sqrt

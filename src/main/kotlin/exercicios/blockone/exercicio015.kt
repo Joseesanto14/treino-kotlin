@@ -1,4 +1,4 @@
-package exercicios
+package exercicios.blockone
 
 // km = 0,15 ; dia = 60,00 ; total = ?
 

@@ -1,6 +1,4 @@
-package exercicios
-
-import java.util.Arrays
+package exercicios.blockone
 
 fun main() {
 

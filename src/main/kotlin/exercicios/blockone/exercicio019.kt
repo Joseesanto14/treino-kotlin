@@ -1,6 +1,4 @@
-package exercicios
-
-import kotlin.random.Random
+package exercicios.blockone
 
 fun main() {
     val alunos = Array(5) { "" }

@@ -1,4 +1,4 @@
-package exercicios
+package exercicios.blockone
 
 fun main() {
     class Meter(val value: Double) {

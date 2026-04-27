@@ -1,7 +1,6 @@
-package exercicios
+package exercicios.blockone
 
 import kotlin.math.ceil
-import kotlin.math.roundToInt
 
 fun main() {
     class Parede(val largura: Float, val altura: Float) {

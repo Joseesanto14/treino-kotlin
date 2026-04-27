@@ -1,4 +1,4 @@
-package exercicios
+package exercicios.blockone
 
 fun main() {
     println("Digite o primeiro número real: ")
